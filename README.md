@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RickDerick
-- 👀 I’m interested in javascript, node js, react js and python programming languge.
-- 🌱 I’m currently learning react js programming language
+- 👀 I’m a front and backend developer using javascript, node js, react js and python programming languge.
+- 🌱 I’m currently a continuing computer science student @ machakos university.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Derickharon6@gmail.com
 
